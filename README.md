@@ -34,6 +34,9 @@ Based on the results above we can note the following key differences between the
 - There is a higher standard deviation in December, meaning there is less outliers vs June
 - The maximum temperatures are very close between 83F and 85F in December and June respectively
 
+
+## Summary 
+
 As a recommendation it is suggested to keep the shop open all of June, however in December it may be ideal to have it open on the warmer days and shut the shop during cooler days.
 During holiday weeks its perfect to keep it open to attract tourists who usually come to hawaii for the sole purpose of surfing. This month is ideal to increase stock in wet suits for cooler days.
 
